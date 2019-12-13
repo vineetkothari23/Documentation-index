@@ -1,7 +1,7 @@
 # Documentation Contents
 All the documentation content links are placed here
 
-|<h3><a href="https://github.com/MicroprocessorX069/Pneumonia-detection-Dense-Conv-Net/blob/master/documentation/cam.md">Attention is all you need: Self attention GAN</a></h3>   | |
+|<h3><a href="https://github.com/MicroprocessorX069/Comparison-of-DC-GANS-and-SA-GANS/blob/master/documentation/sagan.md">Attention is all you need: Self attention GAN</a></h3>   | |
 |:-| :---:|
 |<p>How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019. The psuedo implementation is in pytorch.</p> | ![SA gan](https://github.com/MicroprocessorX069/Documentation-index/blob/master/image%20res/sagan%20thumbnail.PNG)  | 
 
@@ -22,7 +22,8 @@ All the documentation content links are placed here
 
 | <h3><a href="https://github.com/MicroprocessorX069/Generalized-pix2pix-GAN-API/blob/master/documentation/deep_learning_pipelines.md" target="_blank">Design a scalable deep network pipeline supporting hit and trial training</a></h3> | |
 |:-| :---:|
-|<p>How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019. The psuedo implementation is in pytorch.</p> |  ![SA gan](https://github.com/MicroprocessorX069/Documentation-index/blob/master/image%20res/sagan%20thumbnail.PNG)  | 
+|<p>How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019. The psuedo implementation is in pytorch.</p> |  ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sK1NhsM6sXP08IvsCzfMXUigqDDoso4mkEyAO4UXedz0QYMX&s)  | 
+
 ## 5. [Which loss function to use?]()
 Improvisation in training
 
