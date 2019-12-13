@@ -8,7 +8,7 @@ All the documentation content links are placed here
 
 |<h3><a href="https://github.com/MicroprocessorX069/Pneumonia-detection-Dense-Conv-Net/blob/master/documentation/cam.md">Class activation mappings: How does your convolutional network see the images.</a></h3>   | |
 |:-| :---:|
-|<p>How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019. The psuedo implementation is in pytorch.</p> |  ![CAM image](https://github.com/MicroprocessorX069/Pneumonia-detection-Dense-Conv-Net/blob/master/documentation/image%20res/cam.png)  | 
+|<p>How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019. The psuedo implementation is in pytorch.</p> |  ![CAM image](https://miro.medium.com/max/516/1*oeKYHc8pNI1DVEqgJ8ERPQ.png)  | 
 
 | <h3><a href="https://github.com/MicroprocessorX069/Generalized-pix2pix-GAN-API/blob/master/documentation/distributed_training.md" target="_blank">Distributed training of network in pytorch</a></h3>  | |
 |:-| :---:|
