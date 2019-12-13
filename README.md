@@ -6,7 +6,7 @@ All the documentation content links are placed here
 |<p>How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019. The psuedo implementation is in pytorch.</p> |  ![SA gan](https://github.com/MicroprocessorX069/Documentation-index/blob/master/image%20res/sagan%20thumbnail.PNG)  | 
 
 | <a href="https://github.com/MicroprocessorX069/Pneumonia-detection-Dense-Conv-Net/blob/master/documentation/cam.md" target="_blank"><h3> Class activation mappings: How does your convolutional network see the images.</h3></a>  | |
-|:---| :---:|
+|:-| :---:|
 |<p>How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019. The psuedo implementation is in pytorch.</p> |  ![CAM image](https://github.com/MicroprocessorX069/Pneumonia-detection-Dense-Conv-Net/blob/master/documentation/image%20res/cam.png)  | 
 
 | <a href="https://github.com/MicroprocessorX069/Generalized-pix2pix-GAN-API/blob/master/documentation/distributed_training.md" target="_blank"><h3>Distributed training of network in pytorch</h3></a>  | |
