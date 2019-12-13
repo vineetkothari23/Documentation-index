@@ -1,4 +1,58 @@
 # Documentation-index
 All the documentation content links are placed here
-## Self attention generative adversarial networks
-#### Improvisation in training ![SA gan](https://camo.githubusercontent.com/5b48613c528aff3a4ee1f2b24df345b6c9550004/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f312a6f4941775f66345a7736694a664655365462656f61412e6a706567)
+## 1. [Self attention generative adversarial networks]
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+## 2. [Techniques of regularization for a deep neural network]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+## 3. [Class activation mappings: How does your convolutional network see the images.]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+## 4. [Distributed training of network in pytorch]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+## 5. [Which loss function to use?]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+## 6. [Frechet inception score: Metric to compare two images for generative tasks]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+## 7. [d6tflow integration: Design a scalable deep network pipeline supporting hit and trial training]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+## 8. [Wasserstein loss: What is this?]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+Used in project [Comparison of DC GANS and SA Gans]()
+
+## 1. [Spectral Normalization]()
+Improvisation in training
+
+How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
+The psuedo implementation is in pytorch.
+
+![SA gan](https://github.com/MicroprocessorX069/Documentation-index/blob/master/image%20res/sagan%20thumbnail.PNG)
