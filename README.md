@@ -45,7 +45,7 @@ How can long range dependencies be handled well among multiple layers? Here is t
 The psuedo implementation is in pytorch.
 Used in project [Comparison of DC GANS and SA Gans]()
 
-| ## 1. [Spectral Normalization]() 
+## 9. [Spectral Normalization]() 
 Improvisation in training
 How can long range dependencies be handled well among multiple layers? Here is the mechanism of self attention GANS proposed in June 2019.
 The psuedo implementation is in pytorch. ||
